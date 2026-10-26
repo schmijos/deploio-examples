@@ -7,7 +7,7 @@ To create a new app and deploy this project:
 ```shell
 nctl create app falcon-sinatra-test2 \
      --git-url=https://github.com/ninech/deploio-examples \
-     --git-sub-path=ruby/falcon-sinatra
+     --git-sub-path=heroku-stack/ruby/falcon-sinatra
 ```
 
 ## Development
